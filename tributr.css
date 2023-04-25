@@ -1,0 +1,24 @@
+body {
+    background-color: #7baec8;
+    margin: 20%;
+}
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px gold;
+    font-size: 5vh;
+    color: rgba(211, 89, 67, 0.851);
+    margin-top: -7em;
+}
+
+img {
+   height: 100%;
+    width: 100%;
+}
+
+.king {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
